@@ -38,3 +38,16 @@ BLTouch requires a pullup.
 [bltouch]
 sensor_pin: ^PC14
 ```
+
+
+### Raspberry Pi
+
+The following pins need to be paired:
+
+```
+Raspberry Pi <==> SKR Mini v3.0 TFT pins
+      P4 +5V <==> +5V
+      P6 GND <==> GND
+     P8 TXD0 <==> RX2
+    P10 RXDO <==> TX2
+```
