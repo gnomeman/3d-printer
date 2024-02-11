@@ -51,3 +51,17 @@ Raspberry Pi <==> SKR Mini v3.0 TFT pins
      P8 TXD0 <==> RX2
     P10 RXDO <==> TX2
 ```
+
+
+
+# Setup after Klipper install
+
+## Calibrations
+
+### Config files
+
+### X and Y offsets
+
+### Z offset
+
+### Macros
