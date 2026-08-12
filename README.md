@@ -4,6 +4,42 @@
 
 
 
+# Raspberry Pi <=> Big Tree Tech SKR Mini E3 V3.0
+
+Connect Raspberry Pi to SKR Mini.
+
+```
+Raspberry Pi                Big Tree Tech SKR Mini E3 V3.0
+
+---------------+
+               |         +----+
+    [  ] [02]--+---------+-   |
+    [  ] [04]--+---------+-   |
+    [  ] [06]--+---------+-   |
+    [  ] [08]--+---------+-   |
+    [  ] [10]--+---------+-   |
+    [  ] [  ]  |         +----+
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+    [  ] [  ]  |
+               |
+-[USB]---------+  
+
+```
+
+
+
 # Resources
 
 - [Youtube: Wire Raspberry Pi to board](https://www.youtube.com/watch?v=ZOL-motmkos)
